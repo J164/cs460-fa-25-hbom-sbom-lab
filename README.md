@@ -1,4 +1,4 @@
-# CS 460/ECE 419 — Fall 2025  
+# UIUC CS 460/ECE 419 - Fall 2025  
 ## Module 9: Inside the Stack — Mapping Hardware and Software Bill of Materials (HBOM + SBOM)
 
 ### **HBOM vs. SBOM Explained**
