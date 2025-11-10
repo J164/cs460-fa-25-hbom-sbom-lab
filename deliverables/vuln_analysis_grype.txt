@@ -1,0 +1,3 @@
+No vulnerabilities found
+
+Grype found zero vulnerabilities. Upon further inspection, I suspect that no vulnerabilities were detected because Syft and Trivy did not detect the c++ libraries used in the M5StampFly repository and instead only identified GitHub Action dependencies (which were up-to-date and don’t have known vulnerabilities).
